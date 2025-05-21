@@ -1,18 +1,4 @@
-# BIG-DATA-ANALYSIS-USING-DASK
-
-**COMPANY**: CODTECH IT SOLUTIONS
-
-**NAME**: AKRITI SAHA
-
-**INTERN ID**: :CT04DM725
-
-**DOMAIN**: DATA ANALYTICS
-
-**DURATION**: 4 WEEEKS
-
-**MENTOR**: NEELA SANTHOS KUMAR
-
-**DESCRIPTION** :In this task, I showcased the implementation of scalable data analysis on Dask, a parallel computing library in Python which facilitates working with datasets that surpass available memory. I performed all the analysis in a Jupyter Notebook which is an interactive environment that offers easy and convenient execution, making it simpler to develop, visualize, and interpret results step by step.
+I showcased the implementation of scalable data analysis on Dask, a parallel computing library in Python which facilitates working with datasets that surpass available memory. I performed all the analysis in a Jupyter Notebook which is an interactive environment that offers easy and convenient execution, making it simpler to develop, visualize, and interpret results step by step.
 
 Objective-
 
